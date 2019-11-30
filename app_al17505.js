@@ -3,7 +3,7 @@ http.createServer(function (req, res) {
 res.writeHead(200, {'Content-Type': 'application/json; charset=utf-8'});
 
 var objeto = {
-    mensaje : 'Hola mundo Node JS Repo GIT - Luna Hernandez Marcos Migue \n'
+    mensaje : 'Hola mundo Node JS Repo GIT - Luna Hernandez Marcos Miguel \n'
 };
 
 var json = JSON.stringify(objeto);
